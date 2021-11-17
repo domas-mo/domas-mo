@@ -18,7 +18,13 @@ I love reading tons of book, :closed_book: especially reportage and history abou
 
 ## :computer:Project:
 <p align="center">
-in progress..
+- [RWD](https://github.com/domas-mo/RWD);
+- [GitHub-SDK](https://github.com/domas-mo/GitHub-SDK);
+- [Kanban](https://github.com/domas-mo/Kanban);
+- [Currency-Wallet](https://github.com/domas-mo/Currency-Wallet);
+- [Blog](https://github.com/domas-mo/Blog);
+- [Calendar](https://github.com/domas-mo/Calendar);
+- [Questionnaire](https://github.com/domas-mo/Questionnaire).
 <p/>
 
 ## :envelope:Social media:
