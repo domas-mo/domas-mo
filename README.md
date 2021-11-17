@@ -17,7 +17,7 @@ I love reading tons of book, :closed_book: especially reportage and history abou
 </p>
 
 ## :computer:Project:
-<p align="center">
+
 - [RWD](https://github.com/domas-mo/RWD);
 - [GitHub-SDK](https://github.com/domas-mo/GitHub-SDK);
 - [Kanban](https://github.com/domas-mo/Kanban);
@@ -25,7 +25,6 @@ I love reading tons of book, :closed_book: especially reportage and history abou
 - [Blog](https://github.com/domas-mo/Blog);
 - [Calendar](https://github.com/domas-mo/Calendar);
 - [Questionnaire](https://github.com/domas-mo/Questionnaire).
-<p/>
 
 ## :envelope:Social media:
 <p align="center">
